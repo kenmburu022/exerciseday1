@@ -1,0 +1,8 @@
+1. Create online repo; Clone repo into git hub desktop.
+Using a dataset of your choice, create a bar chart, pie chart and histogram (use seaborn)
+
+2. Create a set with names of your group members
+
+3. Create a dictionary with details (names and age) of your group members
+Update the dictionary with details of gender
+Push the changes to the remote repository you created.
